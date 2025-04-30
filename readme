@@ -42,3 +42,7 @@ If/Else statements
 
 Jumping off the first project, this project continues to build up the base knowledge and introduces user-inputted data at its 
 very simplest. With user input, we start to get into a little bit of variability.
+
+3. Rock-Scissors-Paper Game (04/30/2025)
+
+Goal is to enter a key value with [R]ock [P]aper [S]cissor [E]xit and it is being compared with the computer generated value and results out the winner !
